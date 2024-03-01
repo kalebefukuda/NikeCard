@@ -9,7 +9,9 @@ module.exports = {
         "poppins": ["Poppins"]
       },
       backgroundImage:{
-        "bgYellowTenis": "url('/src/assets/bg.png')"
+        "bgYellowTenis": "url('/src/assets/bg.png')",
+        "bgBlueTenis" : "url('/src/assets/bgBlue.png')",
+        "bgRedTenis" : "url('/src/assets/bgRed.png')",
       },
       keyframes:{
         floatRight:{
